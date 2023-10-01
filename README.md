@@ -24,6 +24,8 @@ pip install bs4
 
 pkg install git
 
+rm -rf Lover
+
 git clone https://github.com/PARVEJ-404/Lover
 
 cd Lover
