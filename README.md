@@ -36,8 +36,11 @@ python Lover.py
 note (This tool is paid so frist approval and injoy a Paid too)
 
 Bangladesh:
+
 100 taka for 3 Days
+
 200 taka for 7 Days
+
 400 taka for 15 Days
 
 WhatsApp Number :01917466867
