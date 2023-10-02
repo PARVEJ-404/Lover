@@ -32,6 +32,11 @@ cd Lover
 
 python Lover.py
 
+or
+
+32 Bit
+
+python 32bit.py
 
 note (This tool is paid so frist approval and injoy a Paid too)
 
