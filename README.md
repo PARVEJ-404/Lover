@@ -32,21 +32,15 @@ cd Lover
 
 python Lover.py
 
-or
-
-32 Bit
-
-python 32bit.py
-
 note (This tool is paid so frist approval and injoy a Paid too)
 
-Bangladesh:
+  Bangladesh:
 
-100 taka for 3 Days
-
-200 taka for 7 Days
-
-400 taka for 15 Days
+  [•] 07 Days 200 tk
+  
+  [•] 15 Days 400 tk
+  
+  [•] 30 Days 700 tk
 
 WhatsApp Number :+8801917466867
 
